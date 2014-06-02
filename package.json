@@ -1,0 +1,30 @@
+{
+  "name": "static.choiz.fr",
+  "version": "1.0.0",
+  "author": "François LASSERRE",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-cli": "~0.1.13",
+    "grunt-contrib-csslint": "~0.2.0",
+    "grunt-contrib-cssmin": "~0.9.0",
+    "grunt-contrib-htmlmin": "~0.3.0",
+    "grunt-contrib-imagemin": "~0.7.0",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-uglify": "~0.4.0",
+    "jshint-stylish": "~0.2.0",
+    "node-modules": "~0.1.4",
+    "requirejs": "~2.1.13",
+    "karma": "~0.12.16",
+    "grunt-karma": "~0.8.3",
+    "time-grunt": "~0.3.1",
+    "load-grunt-tasks": "~0.4.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  }
+}
